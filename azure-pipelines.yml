@@ -15,5 +15,5 @@ steps:
 
 - task: WhiteSource@20
   inputs:
-    cwd: 'projects/XKCD_downloader'
+    cwd: 'projects/Encrypt_and_decrypt_text'
     projectName: 'C7014377'
