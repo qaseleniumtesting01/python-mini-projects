@@ -15,5 +15,5 @@ steps:
 
 - task: WhiteSource@20
   inputs:
-    cwd: 'projects/Ascii_art'
+    cwd: 'projects/XKCD_downloader'
     projectName: 'C7014377'
